@@ -1,0 +1,15 @@
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.exe
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.deps.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.runtimeconfig.json
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\bin\Debug\net7.0\ExquisiteCorpse.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.csproj.AssemblyReference.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.AssemblyInfoInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.AssemblyInfo.cs
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.csproj.CoreCompileInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\refint\ExquisiteCorpse.dll
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.pdb
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ExquisiteCorpse.genruntimeconfig.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\ExquisiteCorpse\obj\Debug\net7.0\ref\ExquisiteCorpse.dll
